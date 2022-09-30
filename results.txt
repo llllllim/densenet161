@@ -1,0 +1,155 @@
+Densenet161 EPOCH = 10 BATCH_SIZE = 64 LR = 0.001
+epoch1 loss:1.4740
+epoch2 loss:1.6272
+epoch3 loss:1.2380
+epoch4 loss:0.6740
+epoch5 loss:0.8988
+epoch6 loss:0.8987
+epoch7 loss:0.9727
+epoch8 loss:0.5470
+epoch9 loss:1.2846
+epoch10 loss:1.6099
+准确率：65.0900%
+
+-------------------------------------------------------
+Densenet201 EPOCH = 10 BATCH_SIZE = 64 LR = 0.001
+epoch1 loss:1.2104
+epoch2 loss:1.3720
+epoch3 loss:1.1809
+epoch4 loss:1.0805
+epoch5 loss:0.4123
+epoch6 loss:1.2082
+epoch7 loss:1.1970
+epoch8 loss:0.4380
+epoch9 loss:0.1868
+epoch10 loss:0.2973
+准确率：79.4200%
+
+-------------------------------------------------------
+Densenet161 EPOCH = 10 BATCH_SIZE = 32 LR = 0.001
+epoch1 loss:1.5197
+epoch2 loss:0.9522
+epoch3 loss:0.5386
+epoch4 loss:1.2931
+epoch5 loss:0.5124
+epoch6 loss:0.4670
+epoch7 loss:0.6810
+epoch8 loss:0.2468
+epoch9 loss:0.5729
+epoch10 loss:0.5430
+准确率：80.8500%
+
+-------------------------------------------------------
+Densenet161 EPOCH = 10 BATCH_SIZE = 128 LR = 0.001
+epoch1 loss:1.2175
+epoch2 loss:0.7924
+epoch3 loss:0.7074
+epoch4 loss:0.7576
+epoch5 loss:0.6069
+epoch6 loss:0.4477
+epoch7 loss:0.5686
+epoch8 loss:0.4879
+epoch9 loss:0.3721
+epoch10 loss:0.3390
+准确率：80.4500%
+
+-------------------------------------------------------
+Densenet161 EPOCH = 30 BATCH_SIZE = 64 LR = 0.001
+epoch1 loss:1.4137
+epoch2 loss:0.9750
+epoch3 loss:1.7119
+epoch4 loss:0.7533
+epoch5 loss:0.2914
+epoch6 loss:0.4694
+epoch7 loss:0.8535
+epoch8 loss:0.4951
+epoch9 loss:0.7124
+epoch10 loss:0.7256
+epoch11 loss:0.2874
+epoch12 loss:0.7305
+epoch13 loss:0.2726
+epoch14 loss:0.2141
+epoch15 loss:0.4746
+epoch16 loss:0.0205
+epoch17 loss:0.2343
+epoch18 loss:0.0808
+epoch19 loss:0.0347
+epoch20 loss:0.2639
+epoch21 loss:0.6153
+epoch22 loss:0.4247
+epoch23 loss:0.9995
+epoch24 loss:0.6433
+epoch25 loss:0.1288
+epoch26 loss:0.2516
+epoch27 loss:0.0901
+epoch28 loss:0.0800
+epoch29 loss:0.1530
+epoch30 loss:0.2402
+准确率：83.4300%
+
+-------------------------------------------------------
+Densenet161 EPOCH = 10 BATCH_SIZE = 64 LR = 0.0001
+epoch1 loss:1.4107
+epoch2 loss:1.3537
+epoch3 loss:1.2112
+epoch4 loss:0.9673
+epoch5 loss:0.6760
+epoch6 loss:0.9297
+epoch7 loss:1.0474
+epoch8 loss:0.4342
+epoch9 loss:0.6884
+epoch10 loss:0.7562
+准确率：70.4900%
+
+-------------------------------------------------------
+Densenet161 EPOCH = 50 BATCH_SIZE = 64 LR = 0.001
+epoch2 loss:1.4917
+epoch3 loss:1.4530
+epoch4 loss:0.6301
+epoch5 loss:0.9061
+epoch6 loss:1.2546
+epoch7 loss:0.6794
+epoch8 loss:0.6563
+epoch9 loss:0.2479
+epoch10 loss:0.5608
+epoch11 loss:0.4409
+epoch12 loss:1.2524
+epoch13 loss:0.5110
+epoch14 loss:0.2591
+epoch15 loss:0.4091
+epoch16 loss:0.4221
+epoch17 loss:0.4497
+epoch18 loss:0.1667
+epoch19 loss:0.2170
+epoch20 loss:0.8254
+epoch21 loss:0.3208
+epoch22 loss:0.0904
+epoch23 loss:0.3320
+epoch24 loss:0.3147
+epoch25 loss:0.2655
+epoch26 loss:0.2196
+epoch27 loss:0.9641
+epoch28 loss:0.5359
+epoch29 loss:0.3297
+epoch30 loss:0.1619
+epoch31 loss:0.0203
+epoch32 loss:0.3565
+epoch33 loss:0.0569
+epoch34 loss:0.2410
+epoch35 loss:0.3749
+epoch36 loss:0.6067
+epoch37 loss:0.0205
+epoch38 loss:0.1938
+epoch39 loss:0.8596
+epoch40 loss:0.3107
+epoch41 loss:0.0194
+epoch42 loss:0.3019
+epoch43 loss:0.1939
+epoch44 loss:0.1607
+epoch45 loss:0.2387
+epoch46 loss:0.0694
+epoch47 loss:0.0460
+epoch48 loss:0.1957
+epoch49 loss:0.0926
+epoch50 loss:0.0077
+准确率：83.9500%
